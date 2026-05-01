@@ -33,8 +33,14 @@ This project focuses on creating a *luxury digital experience* using only front-
 
 ## Preview
 
-<img width="1901" height="910" alt="Screenshot 2026-05-01 204438" src="https://github.com/user-attachments/assets/dd3110f5-e5e8-48d3-be92-dfddb66fa800" />
+### Hero Section
+![Hero](./assets/hero.png)
 
+### Features
+![Features](./assets/middle.png)
+
+### Full Page
+![Full](./assets/full.png)
 ---
 
 ## Purpose
