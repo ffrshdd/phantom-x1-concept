@@ -71,7 +71,7 @@ This project was built to:
 ## Run Locally
 
 1. Download or clone the repository
-2. Open `phantom_ultra_x1.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
